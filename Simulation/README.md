@@ -20,7 +20,7 @@
 
 - - -
 <br><br>
-You can find a simple URDF file [here](Simulation/yertle.URDF) if you want to create a simulation.<br><br>
+You can find a simple URDF file [here](yertle.URDF) if you want to create a simulation.<br><br>
 
 There is a pyBullet simulation in the python control software.
 <br><br>
